@@ -12,25 +12,19 @@ Here you'll find structured examples organized by type, theme, and original lang
 
 ---
 
-## 📁 Structure
+## 🗂 Structure
 
-translationPortfolio/
-│
-├── 📚 News_Articles/
-│ ├── kazakh_to_russian/
-│ └── russian_to_english/
-│
-├── 🎤 Interviews/
-│ ├── original_audio_snippets/ (optional)
-│ └── translations/
-│
-├── 🧠 Cultural_Essays/
-│ ├── language_identity.md
-│ └── media_policy_analysis.md
-│
-└── 🗂️ Personal_Pieces/
-└── reflections_journal.md
-
+translationPortfolio/  
+├── 📄 News_Articles/  
+│   ├── kazakh_to_russian/  
+│   └── russian_to_english/  
+├── 🎤 Speeches/  
+│   └── english_to_russian/  
+├── 📚 Cultural_Essays/  
+│   └── english_to_russian/  
+├── 📝 Personal_Pieces/  
+│   └── english_to_russian/  
+├── 📰 Interviews/ *(coming next)*  
 
 ---
 
